@@ -707,7 +707,7 @@ export default function App() {
           </section>
 
           {/* Section 02: Material Unitário (Demanda) */}
-          <section className="flex flex-col flex-1 min-h-0">
+          <section className="flex flex-col shrink-0">
             <div className="flex items-center justify-between mb-3">
               <h2 className="font-display font-bold text-[11px] uppercase tracking-wider text-[#555555]">
                 [02] Demanda Unitária
@@ -1084,7 +1084,7 @@ export default function App() {
             )}
 
             {/* List of items added */}
-            <div className="flex-1 overflow-y-auto max-h-[180px] lg:max-h-none border border-[#D1D1D1] rounded-sm">
+            <div className="overflow-y-auto max-h-[180px] lg:max-h-none border border-[#D1D1D1] rounded-sm">
               {items.length === 0 ? (
                 <div className="h-24 flex flex-col items-center justify-center text-[#555555] bg-white rounded-sm border border-dashed border-[#D1D1D1]">
                   <Info className="w-4 h-4 mb-1 text-[#555555]" />
