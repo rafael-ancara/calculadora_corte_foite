@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de corte",
+  "description": "Calculadora de corte e aproveitamento de papel para gráficas e cartonagem por Foite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
