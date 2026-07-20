@@ -1,3 +1,5 @@
+Esses texto de vibecoding se passa às vezes
+
 # Calculadora de Corte e Aproveitamento de Papel 📄✂️
 
 Uma aplicação web completa e extremamente moderna construída em **React**, **TypeScript**, **Vite** e **Tailwind CSS (v4)**. Ela foi desenvolvida especificamente para profissionais de gráficas, cartonagem, encadernação e design que precisam otimizar planos de corte de folhas de forma rápida, interativa e visual.
